@@ -1,16 +1,1 @@
-## My first time blogging
-
-## who am I
-I am Aws Ajwa, I am a beginner programmer working with Laravel framework, I am self-taught one -for now- I use visual studio code as an IDE and learning Laravel in YouTube.
-
-## Why I started learning 
-I started to learn Laravel framework  to get a job at a company in 6 months
-
-### why I started blogging
-So today I decided that I have to make a blog and start blogging regularly as I learn anything new in my journey of coding as a developer .
-and giving you info about programming and how to manage them.
-
-## what is the aim of this blog
-to share what I learn about coding along with the why of my journey and anything that may help me and anyone with it.
-
-
+IyMgTXkgZmlyc3QgdGltZSBibG9nZ2luZwoKIyMgd2hvIGFtIEkKSSBhbSBBd3MgQWp3YSwgSSBhbSBhIGJlZ2lubmVyIHByb2dyYW1tZXIgd29ya2luZyB3aXRoIExhcmF2ZWwgZnJhbWV3b3JrLCBJIGFtIHNlbGYtdGF1Z2h0IG9uZSAtZm9yIG5vdy0gSSB1c2UgdmlzdWFsIHN0dWRpbyBjb2RlIGFzIGFuIElERSBhbmQgbGVhcm5pbmcgTGFyYXZlbCBpbiBZb3VUdWJlLgoKIyMgV2h5IEkgc3RhcnRlZCBsZWFybmluZyAKSSBzdGFydGVkIHRvIGxlYXJuIExhcmF2ZWwgZnJhbWV3b3JrICB0byBnZXQgYSBqb2IgYXQgYSBjb21wYW55IGluIDYgbW9udGhzCgojIyMgd2h5IEkgc3RhcnRlZCBibG9nZ2luZwpTbyB0b2RheSBJIGRlY2lkZWQgdGhhdCBJIGhhdmUgdG8gbWFrZSBhIGJsb2cgYW5kIHN0YXJ0IGJsb2dnaW5nIHJlZ3VsYXJseSBhcyBJIGxlYXJuIGFueXRoaW5nIG5ldyBpbiBteSBqb3VybmV5IG9mIGNvZGluZyBhcyBhIGRldmVsb3BlciAuCmFuZCBnaXZpbmcgeW91IGluZm8gYWJvdXQgcHJvZ3JhbW1pbmcgYW5kIGhvdyB0byBtYW5hZ2UgdGhlbS4KCiMjIHdoYXQgaXMgdGhlIGFpbSBvZiB0aGlzIGJsb2cKdG8gc2hhcmUgd2hhdCBJIGxlYXJuIGFib3V0IGNvZGluZyBhbG9uZyB3aXRoIHRoZSB3aHkgb2YgbXkgam91cm5leSBhbmQgYW55dGhpbmcgdGhhdCBtYXkgaGVscCBtZSBhbmQgYW55b25lIHdpdGggaXQuCgoK
