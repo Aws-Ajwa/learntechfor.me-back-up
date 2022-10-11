@@ -1,1 +1,70 @@
-IyMgSG93IHRvIFByaW50IHRoZSBDdXJyZW50IERhdGUgYW5kIFRpbWUgaW4gYSBQSFAgUHJvZ3JhbToKClRoaXMgYXJ0aWNsZSB3aWxsIGV4cGxhaW4gdGhlIHByb2Nlc3Mgb2YgaG93IHRvIHByaW50IHRoZSBjdXJyZW50IGRhdGUgYW5kIHRpbWUgaW4gUEhQLiBJbiBvcmRlciB0byBkbyB0aGlzLCB5b3UgbmVlZCB0byBzdGFydCB3aXRoIGEgdGV4dCBmaWxlIGFuZCBoYXZlIGl0IHJlYWR5IGZvciBwcmludGluZy4gVGhpcyBhcnRpY2xlIHdpbGwgYWxzbyBjb3ZlciB0aGUgY29kZSBmb3IgcHJpbnRpbmcgdGhlIGN1cnJlbnQgZGF0ZSBhbmQgdGltZSBpbiBQSFAuIElmIHlvdSBhcmUgaW50ZXJlc3RlZCBpbiBsZWFybmluZyBob3cgdG8gcHJpbnQgdGhlIGN1cnJlbnQgZGF0ZSBhbmQgdGltZSBpbiBQSFAsIHRoZW4gdGhpcyBpcyB0aGUgYXJ0aWNsZSB5b3Ugc2hvdWxkIHJlYWQuCgojIyAxLiBIb3cgdG8gd3JpdGUgYSBQSFAgcHJvZ3JhbSB0byBwcmludCB0aGUgY3VycmVudCBkYXRlIGFuZCB0aW1lClVzZSB0aGUgUEhQIGRhdGUoKSBGdW5jdGlvbi4gWW91IGNhbiBzaW1wbHkgdXNlIHRoZSBQSFAgZGF0ZSgpIGZ1bmN0aW9uIHRvIGdldCB0aGUgY3VycmVudCBkYXRlIGFuZCB0aW1lIGluIHZhcmlvdXMgZm9ybWF0LCBmb3IgZXhhbXBsZSwgZGF0ZSgnZC1tLXkgaDppOnMnKSwgZGF0ZSgnZC9tL3kgSDppOnMnKSwgYW5kIHNvIG9uLgpUcnkgb3V0IHRoZSBmb2xsb3dpbmcgZXhhbXBsZSB0byBzZWUgaG93IGl0IGJhc2ljYWxseSB3b3JrczoKYGBgCjw/cGhwCi8vIFJldHVybiBjdXJyZW50IGRhdGUgZnJvbSB0aGUgcmVtb3RlIHNlcnZlcgokZGF0ZSA9IGRhdGUoJ2QtbS15IGg6aTpzJyk7CmVjaG8gJGRhdGU7Cj8+CmBgYCAKVGhlIGRhdGUgYW5kIHRpbWUgcmV0dXJuZWQgYnkgdGhlIGFib3ZlIGV4YW1wbGUgYXJlIGJhc2VkIG9uIHRoZSBzZXJ2ZXIncyBkZWZhdWx0IHRpbWV6b25lIHNldHRpbmcuIElmIHlvdSB3YW50IHRvIHNob3cgdGhlIGRhdGUgYW5kIHRpbWUgYXMgcGVyIHRoZSB1c2VyJ3MgdGltZXpvbmUsIHlvdSBjYW4gc2V0IHRoZSB0aW1lem9uZSBtYW51YWxseSB1c2luZyB0aGUgZGF0ZV9kZWZhdWx0X3RpbWV6b25lX3NldCgpwqBmdW5jdGlvbiBiZWZvcmUgdGhlwqBkYXRlKCnCoGZ1bmN0aW9uIGNhbGwuCgpUaGUgZm9sbG93aW5nIGV4YW1wbGUgc2hvd3MgdGhlIGRhdGUgYW5kIHRpbWUgaW4gdGhlIEluZGlhIHRpbWV6b25lLCB3aGljaCBpcyBBc2lhL0pvcmRhbi4KYGBgCjw/cGhwCi8vIFNldCB0aGUgbmV3IHRpbWV6b25lCmRhdGVfZGVmYXVsdF90aW1lem9uZV9zZXQoJ0FzaWEvSm9yZGFuJyk7CiRkYXRlID0gZGF0ZSgnZC1tLXkgaDppOnMnKTsKZWNobyAkZGF0ZTsKPz4KYGBgCgojIyAyLiBXaGF0IGFyZSB0aGUgc3RlcHMgdG8gd3JpdGluZyBhIFBIUCBwcm9ncmFtPwoKaXQgaXMgcmVhbGx5IGVhc3kgc3RlcHMgYW5kIHRoZXkgYXJlIAoKMS4gQ2hvb3NlIGEgdGV4dCBlZGl0b3IsIHN1Y2ggYXMgTm90ZXBhZCBvciBOb3RlcGFkKyssIGFuZCBvcGVuIGEgbmV3IGRvY3VtZW50LgoyLiBUeXBlIHlvdXIgUEhQIGNvZGUgaW50byB0aGUgZG9jdW1lbnQuCjMuIFNhdmUgdGhlIGRvY3VtZW50IGFzIGEgLnBocCBmaWxlLiBGb3IgZXhhbXBsZSwgeW91IGNhbiBuYW1lIGl0ICJ0ZXN0LnBocCIuCjQuIFVwbG9hZCB0aGUgZmlsZSB0byB5b3VyIHdlYiBzZXJ2ZXIuCjUuIE9wZW4gdGhlIGZpbGUgaW4geW91ciB3ZWIgYnJvd3NlciB0byB0ZXN0IGl0LgoKIyMgMy4gV2hhdCBhcmUgdGhlIGluc3RydWN0aW9ucyBmb3Igd3JpdGluZyBhIFBIUCBwcm9ncmFtPwpUaGUgaW5zdHJ1Y3Rpb25zIGZvciB3cml0aW5nIGEgUEhQIHByb2dyYW0gdmFyeSBkZXBlbmRpbmcgb24gd2hhdCB5b3Ugd2FudCB0aGUgcHJvZ3JhbSB0byBkbyBzdWNoIGFzIGNyZWF0aW5nIGEgd2ViIHBhZ2Ugb3IgYSBtb2JpbGUgYXBwLiBIb3dldmVyLCBzb21lIGJhc2ljIGluc3RydWN0aW9ucyBmb3Igd3JpdGluZyBhIFBIUCBwcm9ncmFtIHdvdWxkIGJlIHRvIGRvd25sb2FkIGEgUEhQIGRldmVsb3BtZW50IGVudmlyb25tZW50LCBzdWNoIGFzIFhBTVBQLCB3aGljaCB3aWxsIGdpdmUgeW91IGEgbG9jYWwgc2VydmVyIHRvIHRlc3QgeW91ciBwcm9ncmFtcyBvbi4gVGhlbiwgY3JlYXRlIGEgbmV3IGZpbGUgaW4geW91ciBkZXZlbG9wbWVudCBlbnZpcm9ubWVudCBhbmQgc3RhcnQgd3JpdGluZyBQSFAgY29kZS4KCiMjIDQuIFdhaXQsIFdoYXQgaXMgdGhlIGRpZmZlcmVuY2UgYmV0d2VlbiBhIFBIUCBwcm9ncmFtIGFuZCBQSFAgY29kZSBwbGVhc2UgbWFrZSBpdCBzaW1wbGU/Cgpvaywgc28gQSBQSFAgcHJvZ3JhbSBpcyBhIGNvbGxlY3Rpb24gb2Ygb25lIG9yIG1vcmUgUEhQIGNvZGUgZmlsZXMgdGhhdCdzIGl0LgoKCiMjIDUuIEhvdyB0byB3cml0ZSBhIFBIUCBwcm9ncmFtIHRvIHByaW50IGp1c3QgdGhlIHRpbWU/CgpgYGAKPD9waHAKCiR0aW1lID0gZGF0ZSgiaDppOnNhIik7CgplY2hvICJUaGUgdGltZSBpcyAiIC4gJHRpbWU7Cgo/PgpgYGAKCiMjIDYuIEhvdyB0byB3cml0ZSBhIFBIUCBwcm9ncmFtIHRvIHByaW50IGp1c3QgdGhlIGRhdGU/CgpgYGAKPD9waHAKCmVjaG8gZGF0ZSgibCwgZCBGIFkiKTsKCj8+CmBgYAojIyBDb25jbHVzaW9uOiAKCllvdSBjYW4gdXNlIHRoZSBQSFAgZGF0ZSgpIGZ1bmN0aW9uIHRvIG91dHB1dCB0aGUgZGF0ZSBhbmQgdGltZSBpbiB2YXJpb3VzIGZvcm1hdHMuIFRoZSBmdW5jdGlvbiBjYW4gdGFrZSBhIHN0cmluZyB0aGF0IHNwZWNpZmllcyB0aGUgZm9ybWF0IG9mIHRoZSBvdXRwdXR0ZWQgZGF0ZSBhbmQgdGltZS4gV2UgdGFsa2VkIGFib3V0IHRoZSBleGFtcGxlcyBmb3JtYXRzIGFuZCBvdXRwdXRzIG9mIHRoZSBjdXJyZW50IGRhdGUgYW5kIHRpbWUgaW4gdGhlIGFydGljbGUgYWJvdmUuCmFuZCB3ZSB3aWxsIHRhbGsgbGF0ZXIgYWJvdXQgWEFNUFAuCnRoYW5rIHlvdSBmb3IgcmVhZGluZy4=
+# How to Print the Current Date and Time in a PHP Program:
+
+This article will explain the process of how to print the current date and time in PHP. In order to do this, you need to start with a text file and have it ready for printing. This article will also cover the code for printing the current date and time in PHP. If you are interested in learning how to print the current date and time in PHP, then this is the article you should read.
+
+## 1. How to write a PHP program to print the current date and time
+Use the PHP date() Function. You can simply use the PHP date() function to get the current date and time in various format, for example, date('d-m-y h:i:s'), date('d/m/y H:i:s'), and so on.
+Try out the following example to see how it basically works:
+```
+<?php
+// Return current date from the remote server
+$date = date('d-m-y h:i:s');
+echo $date;
+?>
+``` 
+The date and time returned by the above example are based on the server's default timezone setting. If you want to show the date and time as per the user's timezone, you can set the timezone manually using the date_default_timezone_set() function before the date() function call.
+
+The following example shows the date and time in the India timezone, which is Asia/Jordan.
+```
+<?php
+// Set the new timezone
+date_default_timezone_set('Asia/Jordan');
+$date = date('d-m-y h:i:s');
+echo $date;
+?>
+```
+
+## 2. What are the steps to writing a PHP program?
+
+it is really easy steps and they are 
+
+1. Choose a text editor, such as Notepad or Notepad++, and open a new document.
+2. Type your PHP code into the document.
+3. Save the document as a .php file. For example, you can name it "test.php".
+4. Upload the file to your web server.
+5. Open the file in your web browser to test it.
+
+## 3. What are the instructions for writing a PHP program?
+The instructions for writing a PHP program vary depending on what you want the program to do such as creating a web page or a mobile app. However, some basic instructions for writing a PHP program would be to download a PHP development environment, such as XAMPP, which will give you a local server to test your programs on. Then, create a new file in your development environment and start writing PHP code.
+
+## 4. Wait, What is the difference between a PHP program and PHP code please make it simple?
+
+ok, so A PHP program is a collection of one or more PHP code files that's it.
+
+
+## 5. How to write a PHP program to print just the time?
+
+```
+<?php
+
+$time = date("h:i:sa");
+
+echo "The time is " . $time;
+
+?>
+```
+
+## 6. How to write a PHP program to print just the date?
+
+```
+<?php
+
+echo date("l, d F Y");
+
+?>
+```
+## Conclusion: 
+
+You can use the PHP date() function to output the date and time in various formats. The function can take a string that specifies the format of the outputted date and time. We talked about the examples formats and outputs of the current date and time in the article above.
+and we will talk later about XAMPP.
+thank you for reading.
