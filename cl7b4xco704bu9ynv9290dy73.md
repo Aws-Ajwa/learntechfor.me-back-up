@@ -1,1 +1,53 @@
-IyMgUEhQIC9MYXJhdmVsIGFuZCBob3cgdG8gbGVhcm4gaXQgd2l0aCBpdHMgcm9hZCBtYXAKClBIUCBpcyBhIHNlcnZlci1zaWRlIHNjcmlwdGluZyBsYW5ndWFnZSBkZXNpZ25lZCBmb3Igd2ViIGRldmVsb3BtZW50LiBJdCBpcyBhIHdpZGVseS11c2VkLCBmcmVlLCBhbmQgZWZmaWNpZW50IGFsdGVybmF0aXZlIHRvIGNvbXBldGl0b3JzIHN1Y2ggYXMgTWljcm9zb2Z0J3MgQVNQLgoKClRvIGxlYXJuIFBIUCwgd2UgcmVjb21tZW5kIGZvbGxvd2luZyB0aGlzIHJvYWQgbWFwOgoKCjEuIExlYXJuIHRoZSBiYXNpY3Mgb2YgSFRNTCBhbmQgQ1NTLgoKMi4gTGVhcm4gdGhlIGJhc2ljcyBvZiBKYXZhU2NyaXB0LgoKMy4gTGVhcm4gdGhlIGJhc2ljcyBvZiBQSFAuCgo0LiBMZWFybiBob3cgdG8gdXNlIFBIUCB3aXRoIGEgTXlTUUwgZGF0YWJhc2UuCgo1LiBMZWFybiBob3cgdG8gdXNlIFBIUCB3aXRoIGFuIEFwYWNoZSB3ZWIgc2VydmVyLgoKNi4gTGVhcm4gaG93IHRvIHVzZSBQSFAgd2l0aCBIVE1MIGZvcm1zLgoKNy4gTGVhcm4gYWR2YW5jZWQgUEhQIHByb2dyYW1taW5nIHRlY2huaXF1ZXMuCmhvdyBhbmQgd2hlcmUgdG8gbGVhcm4gUEhQIGJhc2ljcwoKVGhlIGJlc3Qgd2F5IHRvIGxlYXJuIHRoZSBiYXNpY3Mgb2YgUEhQIGlzIHRvIGZpbmQgYSB0dXRvcmlhbCBvciBjb3Vyc2UgdGhhdCBzdWl0cyB5b3VyIGxlYXJuaW5nIHN0eWxlIGFuZCBsZXZlbCBvZiBleHBlcmllbmNlLgoKSWYgeW91J3JlIGEgYmVnaW5uZXIsIHdlIHJlY29tbWVuZCBzdGFydGluZyB3aXRoIGEgdHV0b3JpYWwgdGhhdCB3aWxsIHRlYWNoIHlvdSB0aGUgYmFzaWNzIG9mIFBIUCBwcm9ncmFtbWluZy4gRm9yIG1vcmUgZXhwZXJpZW5jZWQgcHJvZ3JhbW1lcnMsIHdlIHJlY29tbWVuZCBmaW5kaW5nIGEgY291cnNlIHRoYXQgY292ZXJzIG1vcmUgYWR2YW5jZWQgdG9waWNzLCBzdWNoIGFzIHdvcmtpbmcgd2l0aCBkYXRhYmFzZXMgb3IgZnJhbWV3b3Jrcy4KCk9uY2UgeW91J3ZlIGNob3NlbiBhIHR1dG9yaWFsIG9yIGNvdXJzZSwgeW91IGNhbiBsZWFybiBQSFAgZWl0aGVyIGJ5IGZvbGxvd2luZyBhbG9uZyB3aXRoIHRoZSBsZXNzb25zIG9yIGJ5IHdvcmtpbmcgb24geW91ciBvd24gcHJvamVjdHMuCgpJZiB5b3UgZ2V0IHN0dWNrLCBkb24ndCBoZXNpdGF0ZSB0byBhc2sgZm9yIGhlbHAgb24gUEhQIGZvcnVtcyBvciBjaGF0IHJvb21zLiBUaGVyZSBhcmUgbWFueSBleHBlcmllbmNlZCBQSFAgcHJvZ3JhbW1lcnMgd2hvIGFyZSBoYXBweSB0byBoZWxwIG90aGVycyBsZWFybiB0aGUgbGFuZ3VhZ2UuCndoYXQgYWJvdXQgTGFyYXZlbAoKTGFyYXZlbCBpcyBhIFBIUCBmcmFtZXdvcmsgdGhhdCBjYW4gYmUgdXNlZCBmb3IgZGV2ZWxvcGluZyB3ZWIgYXBwbGljYXRpb25zLiBJdCBpcyBhIGZyZWUsIG9wZW4tc291cmNlIGZyYW1ld29yayB0aGF0IGlzIGRlc2lnbmVkIHRvIG1ha2UgdGhlIGRldmVsb3BtZW50IHByb2Nlc3MgZWFzaWVyIGFuZCBtb3JlIGVmZmljaWVudC4KCklmIHlvdSB3YW50IHRvIGxlYXJuIExhcmF2ZWwsIHdlIHJlY29tbWVuZCBmb2xsb3dpbmcgdGhpcyByb2FkIG1hcDoKCjEuIExlYXJuIHRoZSBiYXNpY3Mgb2YgUEhQLgoKMi4gTGVhcm4gdGhlIGJhc2ljcyBvZiBMYXJhdmVsLgoKMy4gTGVhcm4gaG93IHRvIHVzZSBMYXJhdmVsIHdpdGggYSBNeVNRTCBkYXRhYmFzZS4KCjQuIExlYXJuIGhvdyB0byB1c2UgTGFyYXZlbCB3aXRoIGFuIEFwYWNoZSB3ZWIgc2VydmVyLgoKNS4gTGVhcm4gaG93IHRvIHVzZSBMYXJhdmVsIHdpdGggSFRNTCBmb3Jtcy4KCjYuIExlYXJuIGFkdmFuY2VkIExhcmF2ZWwgcHJvZ3JhbW1pbmcgdGVjaG5pcXVlcy4KCk9uY2UgeW91J3ZlIGNvbXBsZXRlZCB0aGlzIHJvYWQgbWFwLCB5b3Ugc2hvdWxkIGJlIGFibGUgdG8gZGV2ZWxvcCBiYXNpYyBMYXJhdmVsIGFwcGxpY2F0aW9ucy4gSWYgeW91IHdhbnQgdG8gbGVhcm4gbW9yZSBhYm91dCBMYXJhdmVsLCB3ZSByZWNvbW1lbmQgY2hlY2tpbmcgb3V0IHRoZSBvZmZpY2lhbCBMYXJhdmVsIGRvY3VtZW50YXRpb24uCgpBbmQgdGhlIGJlc3QgcGxhY2VzIHRvIGxlYXJuIExhcmF2ZWwvUEhQCgpUaGVyZSBpcyBubyBvbmUtc2l6ZS1maXRzLWFsbCBhbnN3ZXIgdG8gdGhpcyBxdWVzdGlvbiwgYXMgdGhlIGJlc3QgcGxhY2UgdG8gbGVhcm4gTGFyYXZlbC9QSFAgZGVwZW5kcyBvbiB5b3VyIGxldmVsIG9mIGV4cGVyaWVuY2UgYW5kIGV4cGVydGlzZS4gSG93ZXZlciwgc29tZSBwb3B1bGFyIHJlc291cmNlcyBmb3IgbGVhcm5pbmcgTGFyYXZlbC9QSFAgaW5jbHVkZSBMYXJhY2FzdHMsIExhcmF2ZWwgTmV3cywgYW5kIExhcmF2ZWwuaW8u
+# PHP /Laravel and how to learn it with its road map
+
+PHP is a server-side scripting language designed for web development. It is a widely-used, free, and efficient alternative to competitors such as Microsoft's ASP.
+
+
+To learn PHP, we recommend following this road map:
+
+
+1. Learn the basics of HTML and CSS.
+
+2. Learn the basics of JavaScript.
+
+3. Learn the basics of PHP.
+
+4. Learn how to use PHP with a MySQL database.
+
+5. Learn how to use PHP with an Apache web server.
+
+6. Learn how to use PHP with HTML forms.
+
+7. Learn advanced PHP programming techniques.
+how and where to learn PHP basics
+
+The best way to learn the basics of PHP is to find a tutorial or course that suits your learning style and level of experience.
+
+If you're a beginner, we recommend starting with a tutorial that will teach you the basics of PHP programming. For more experienced programmers, we recommend finding a course that covers more advanced topics, such as working with databases or frameworks.
+
+Once you've chosen a tutorial or course, you can learn PHP either by following along with the lessons or by working on your own projects.
+
+If you get stuck, don't hesitate to ask for help on PHP forums or chat rooms. There are many experienced PHP programmers who are happy to help others learn the language.
+what about Laravel
+
+Laravel is a PHP framework that can be used for developing web applications. It is a free, open-source framework that is designed to make the development process easier and more efficient.
+
+If you want to learn Laravel, we recommend following this road map:
+
+1. Learn the basics of PHP.
+
+2. Learn the basics of Laravel.
+
+3. Learn how to use Laravel with a MySQL database.
+
+4. Learn how to use Laravel with an Apache web server.
+
+5. Learn how to use Laravel with HTML forms.
+
+6. Learn advanced Laravel programming techniques.
+
+Once you've completed this road map, you should be able to develop basic Laravel applications. If you want to learn more about Laravel, we recommend checking out the official Laravel documentation.
+
+And the best places to learn Laravel/PHP
+
+There is no one-size-fits-all answer to this question, as the best place to learn Laravel/PHP depends on your level of experience and expertise. However, some popular resources for learning Laravel/PHP include Laracasts, Laravel News, and Laravel.io.
