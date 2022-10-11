@@ -1,1 +1,27 @@
-IyMgSG93IHRvIHN0YXJ0IHdpdGggTGFyYXZlbAoKV2VsbCBMYXJhdmVsIGlzIGEgKipNVkMqKiBiYXNlZCBQSFAgZnJhbWV3b3JrLCBzbyBub3cgd2hhdCBpcyAqKk1WQyoqLgoKIyBNVkMKKipNVkMqKiBpcyBNb2RlbC1WaWV3LUNvbnRyb2xsZXIgYW5kIGl0cyB1c2VkIHRvIGRlY291cGxlIHVzZXItaW50ZXJmYWNlICh2aWV3KSwgZGF0YSAobW9kZWwpLCBhbmQgYXBwbGljYXRpb24gbG9naWMgKGNvbnRyb2xsZXIpLgp3ZSB3aWxsIHRhbGsgYWJvdXQgZXZlcnl0aGluZyBpbiBkZXRhaWwgbGF0ZXIsIGFuZCB0aGlzIGltYWdlIGV4cGxhaW4gdGhlIHByb2Nlc3MgbW9yZS4KCiFbTVZDMy5wbmddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjI4MTkxMDU4NDI2L1duMzlaV3kzYmYucG5nKQoKIyBIb3cgdG8gaW5zdGFsbCBMYXJhdmVsCgojIyMgY29tcG9zZXIgIyMjCkZpcnN0IG9mIGFsbCB5b3UgaGF2ZSB0byBpbnN0YWxsICoqY29tcG9zZXIqKiBhbmQgdGhlbiBpbnN0YWxsIExhcmF2ZWwgd2l0aCB0aGUgY29tcG9zZXIgY29tbWFuZHMuCkFuZCBtYWtlIHN1cmUgdG8gaGF2ZSBQSFAgaW5zdGFsbGVkLgoKVG8gY2hlY2sgaWYgeW91IGNvcnJlY3RseSBpbnN0YWxsZWQgY29tcG9zZXIuCkFmdGVyIHlvdSBpbnN0YWxsIGNvbXBvc2VyIGdvIHRvIGNtZCBhbmQgdHlwZSB0aGUgd29yZCAtY29tcG9zZXItIGluIGl0IGFuZCB5b3Ugc2hvdWxkIGdldCBzb21ldGhpbmcgbGlrZSB0aGlzIAoKIVtjb21wb3Nlci5qcGddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjI4MTkzMTI1OTMxL0NMVVNLdXp2QS5qcGVnKQoKQnV0IHlvdSBtYXkgYXNrIHlvdXIgc2VsZiBub3cgd2hhdCBpcyAqY29tcG9zZXIqID8KKmNvbXBvc2VyKiBpcyB0aGUgRGVwZW5kZW5jeSBtYW5hZ2VyIGZvciB5b3VyIHByb2plY3QgIHdoaWNoIGlzIChhIHNvZnR3YXJlIG1vZHVsZXMgdGhhdCBjb29yZGluYXRlIHRoZSBpbnRlZ3JhdGlvbiBvZiBleHRlcm5hbCBsaWJyYXJpZXMgb3IgcGFja2FnZXMgaW50byBsYXJnZXIgYXBwbGljYXRpb24gc3RhY2spIGluIGEgc2ltcGxlIHdheSB0byBzYXkgaXQgdGhhdCAqY29tcG9zZXIqIGlzIHVzZWQgdG8gZGVjbGFyZSB0aGUgbGlicmFyaWVzIG9mIHRoZSBwcm9qZWN0IGFuZCBtYW5hZ2VzIHRoZW0gKGluc3RhbGwgLyB1cGRhdGUpLgoKYSBsb3QgdG8gdW5kZXJzdGFuZCBidXQgeW91IHdvbid0IHVzZSB0aGUgZGVmaW5pdGlvbiBhcyBtdWNoIGFzIHlvdSB0aGluayBqdXN0IHVuZGVyc3RhbmQgdGhlIG1haW4gY29uY2VwdC4KCkFuZCB3ZSB3aWxsIGNvbnRpbnVlIGluIHRoaXMgc2VyaWVzIHVudGlsIHdlIGJlIGV4cGVydHMgaW4gTGFyYXZlbCA=
+# How to start with Laravel
+
+Well Laravel is a **MVC** based PHP framework, so now what is **MVC**.
+
+# MVC
+**MVC** is Model-View-Controller and its used to decouple user-interface (view), data (model), and application logic (controller).
+we will talk about everything in detail later, and this image explain the process more.
+
+![MVC3.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1628191058426/Wn39ZWy3bf.png)
+
+# How to install Laravel
+
+### composer ###
+First of all you have to install **composer** and then install Laravel with the composer commands.
+And make sure to have PHP installed.
+
+To check if you correctly installed composer.
+After you install composer go to cmd and type the word -composer- in it and you should get something like this 
+
+![composer.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1628193125931/CLUSKuzvA.jpeg)
+
+But you may ask your self now what is *composer* ?
+*composer* is the Dependency manager for your project  which is (a software modules that coordinate the integration of external libraries or packages into larger application stack) in a simple way to say it that *composer* is used to declare the libraries of the project and manages them (install / update).
+
+a lot to understand but you won't use the definition as much as you think just understand the main concept.
+
+And we will continue in this series until we be experts in Laravel 
